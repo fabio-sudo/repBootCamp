@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BootCamp\BootCamp\bin\Debug\net8.0\BootCamp.exe
+C:\Users\Admin\source\repos\BootCamp\BootCamp\bin\Debug\net8.0\BootCamp.deps.json
+C:\Users\Admin\source\repos\BootCamp\BootCamp\bin\Debug\net8.0\BootCamp.runtimeconfig.json
+C:\Users\Admin\source\repos\BootCamp\BootCamp\bin\Debug\net8.0\BootCamp.dll
+C:\Users\Admin\source\repos\BootCamp\BootCamp\bin\Debug\net8.0\BootCamp.pdb
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\BootCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\BootCamp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\BootCamp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\BootCamp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\BootCamp.dll
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\refint\BootCamp.dll
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\BootCamp.pdb
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\BootCamp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BootCamp\BootCamp\obj\Debug\net8.0\ref\BootCamp.dll
